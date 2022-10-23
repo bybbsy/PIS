@@ -1,0 +1,10 @@
+C:\Users\MEGATRON\source\repos\PIS_2\PIS_2\bin\Debug\PIS_2.exe.config
+C:\Users\MEGATRON\source\repos\PIS_2\PIS_2\bin\Debug\PIS_2.exe
+C:\Users\MEGATRON\source\repos\PIS_2\PIS_2\bin\Debug\PIS_2.pdb
+C:\Users\MEGATRON\source\repos\PIS_2\PIS_2\obj\Debug\PIS_2.csprojAssemblyReference.cache
+C:\Users\MEGATRON\source\repos\PIS_2\PIS_2\obj\Debug\PIS_2.Form1.resources
+C:\Users\MEGATRON\source\repos\PIS_2\PIS_2\obj\Debug\PIS_2.Properties.Resources.resources
+C:\Users\MEGATRON\source\repos\PIS_2\PIS_2\obj\Debug\PIS_2.csproj.GenerateResource.cache
+C:\Users\MEGATRON\source\repos\PIS_2\PIS_2\obj\Debug\PIS_2.csproj.CoreCompileInputs.cache
+C:\Users\MEGATRON\source\repos\PIS_2\PIS_2\obj\Debug\PIS_2.exe
+C:\Users\MEGATRON\source\repos\PIS_2\PIS_2\obj\Debug\PIS_2.pdb
